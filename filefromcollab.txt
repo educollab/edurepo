@@ -4,6 +4,7 @@ Shopping list
 - Hat
 - shoes
 - sun protector
+- camera
 
 People to visit
 ---------------
