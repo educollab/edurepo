@@ -9,3 +9,4 @@ People to visit
 ---------------
 - Paul
 - Anna
+- John
