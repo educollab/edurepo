@@ -2,3 +2,10 @@ Shopping list
 -------------
 - sunglasses
 - Hat
+- shoes
+- sun protector
+
+People to visit
+---------------
+- Paul
+- Anna
